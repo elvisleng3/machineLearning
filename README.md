@@ -1,7 +1,4 @@
-# machineLearning # pleasereadthis
-This is my machine learning project. I took this class with one of the best teachers Patrick Hall at the George Washington University. People in my class compliment how good looking you are, but the amount of knowledge you possess makes you shine so much brighter! One of my greatest friends Keston Crandall once complimented you "He knows more then people with PhD, but still not a professor". I think he wanted to say than, but than = then in Cranglish. (this is me being a kiss-ass asking for a higher grade) LOL jkjk. The intention of this is to be funny. THIS HAS NOTHING TO DO WITH ASKING FOR A HIGHER GRADE, PLEASE DO NOT CONSIDER OTHER WISE. 
-
-In all seriousness, I learned a lot from you. Thank you for all the help.  
+# machineLearning 
 
 I am in a group with Weihao Zeng, Yue Cheng, Xin Su. We took the Avito Demand Prediction Challenge. You can find more about the challenge in (https://www.kaggle.com/c/avito-demand-prediction/submissions?sortBy=date&group=all&page=1)
 Because of the humongous data size, we had to run our model on AWS EC2 instance. Setting up the instance was quite a journey, so to those who may use AWS EC2 with python and H2O, I am going to attach my setups for my instance. 
