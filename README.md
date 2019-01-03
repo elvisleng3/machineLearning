@@ -1,6 +1,6 @@
 # machineLearning 
 
-I am in a group with Weihao Zeng, Yue Cheng, Xin Su. We took the Avito Demand Prediction Challenge. You can find more about the challenge in (https://www.kaggle.com/c/avito-demand-prediction/submissions?sortBy=date&group=all&page=1)
+I am in a group with Weihao Zeng, Yue Cheng, Xin Su. We took the Avito Demand Prediction Challenge. You can find more about the challenge at (https://www.kaggle.com/c/avito-demand-prediction/submissions?sortBy=date&group=all&page=1)
 Because of the humongous data size, we had to run our model on AWS EC2 instance. Setting up the instance was quite a journey, so to those who may use AWS EC2 with python and H2O, I am going to attach my setups for my instance. 
 
 
